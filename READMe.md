@@ -11,7 +11,7 @@ ________________________________________________________________________________
 In this file I compare the performance and viability of offerings on the crypto market including: **bitcoin, ethereum, ripple, chainlink, usd-coin, binance, digibyte and more** using PCA and K-Means analysis. 
 
 
-I used a crypto_market csv from my assignment files to complete the assessment. 
+I used a crypto_market csv that was provided to me to complete the assessment. 
 
 ### Data Processing
 * Scaled data for better readable results using StandardScaler
